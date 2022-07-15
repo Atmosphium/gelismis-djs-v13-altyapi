@@ -7,7 +7,7 @@
             <span style="flex-direction: row-reverse; font-size: 1em">
                 <span style="margin-right: 4px; font-weight: 500; letter-spacing: .5px; opacity: 0.65">discord.js</span>
             </span>
-            <span class="discord-interaction-command"> used <span class="discord-interaction-command-name"> /upgrade</span></span>
+            <span class="discord-interaction-command"> used <span style="color: #7289DA; opacity: 0.65"> /upgrade</span></span>
         </div>
         <div class="discord-message-content">
             <div style="margin-top: 1px; margin-right: 16px; min-width: 40px;"><img src="https://cdn.discordapp.com/embed/avatars/0.png" style="height: 40px; width: 40px; border-radius: 50%" /></div>
