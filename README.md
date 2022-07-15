@@ -10,7 +10,7 @@
             <span class="discord-interaction-command"> used <span class="discord-interaction-command-name"> /upgrade</span></span>
         </div>
         <div class="discord-message-content">
-            <div class="discord-author-avatar"><img src="https://cdn.discordapp.com/embed/avatars/2.png" alt="" /></div>
+            <div style="height: 40px; width: 40px; border-radius: 50%;"><img src="https://cdn.discordapp.com/embed/avatars/1.png" alt="" /></div>
             <div class="discord-message-body" style="position: relative; width: 100%">
                 <div>
                     <span class="discord-author-info"><span class="discord-author-username">Guide Bot</span><span class="discord-author-bot-tag"> Bot </span></span><span class="discord-message-timestamp">07/15/2022</span>
