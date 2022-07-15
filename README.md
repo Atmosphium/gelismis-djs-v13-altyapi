@@ -1,19 +1,9 @@
-<style>
-  .discord-messages {
-    background: #F7F7F7;
-    color: #747F8D;
-    font-family: Roboto, sans-serif;
-    font-size: 16px;
-    line-height: 170%;
-    border: 1px solid #DEDEDE;
-}
-</style>
-
 # discord.js v13.8.1 Uyumlu Gelişmiş Altyapı
 
-<div class="discord-messages" data-v-21878b72="">
-    <div class="discord-message" data-v-21878b72="">
-        <div class="discord-interaction" data-v-21878b72="">
+<div style="background: #F7F7F7; color: #747F8D; font-family: Roboto, sans-serif; font-size: 16px; line-height: 170%; border: 1px solid #DEDEDE;
+">
+    <div class="discord-message" style="">
+        <div class="discord-interaction" style="">
             <img class="discord-interaction-author-avatar" src="/assets/discord-avatar-djs.5d8ce4a1.png" alt="" />
             <span class="discord-author-info discord-interaction-author-info">
                 <span class="discord-author-username">discord.js</span>
