@@ -4,8 +4,8 @@
     <div style="display: flex; flex-direction: column; margin: 1em 0; padding: 0.25em 1em 0; color: #2E3338; font-size: 0.9em">
         <div style="display: flex; position: relative; align-items: center; margin-bottom: 4px; padding-left: 56px; box-sizing: border-box color: #4F5660; width: 100%; font-size: 0.95em; line-height: 150%">
             <img src="https://discordjs.guide/assets/discord-avatar-djs.5d8ce4a1.png" style="margin-right: 4px; height: 16px; width: 16px; border-radius: 50%" />
-            <span class="discord-author-info discord-interaction-author-info">
-                <span class="discord-author-username">discord.js</span>
+            <span style="flex-direction: row-reverse; font-size: 1em">
+                <span style="margin-right: 4px; font-weight: 500; letter-spacing: .5px; opacity: 0.65">discord.js</span>
             </span>
             <span class="discord-interaction-command"> used <span class="discord-interaction-command-name"> /upgrade</span></span>
         </div>
